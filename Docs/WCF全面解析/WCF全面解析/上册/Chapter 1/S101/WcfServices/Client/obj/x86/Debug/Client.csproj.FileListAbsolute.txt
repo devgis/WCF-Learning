@@ -1,0 +1,8 @@
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\bin\Debug\Artech.WcfServices.Client.exe.config
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\bin\Debug\Artech.WcfServices.Client.exe
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\bin\Debug\Artech.WcfServices.Client.pdb
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\bin\Debug\Artech.WcfServices.Service.Interface.dll
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\bin\Debug\Artech.WcfServices.Service.Interface.pdb
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\obj\x86\Debug\Artech.WcfServices.Client.exe
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Client\obj\x86\Debug\Artech.WcfServices.Client.pdb

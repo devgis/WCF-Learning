@@ -1,0 +1,9 @@
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\bin\Debug\Artech.WcfServices.Hosting.exe
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\bin\Debug\Artech.WcfServices.Hosting.pdb
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\bin\Debug\Artech.WcfServices.Service.dll
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\bin\Debug\Artech.WcfServices.Service.Interface.dll
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\bin\Debug\Artech.WcfServices.Service.Interface.pdb
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\bin\Debug\Artech.WcfServices.Service.pdb
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\obj\x86\Debug\Artech.WcfServices.Hosting.exe
+D:\进阶\WCF\WCF全面解析\上册\Chapter 1\S101\WcfServices\Hosting\obj\x86\Debug\Artech.WcfServices.Hosting.pdb
